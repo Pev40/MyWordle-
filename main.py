@@ -179,7 +179,6 @@ class JuegoMain():
             print(self.__cuadricula[0])
 
     def __consultar_palabra(self):
-        print("PAlABRA SECRETA: ", self.__palabra_elegida_aleatoria)
         if(self.__intentos < 6):
             palabra_ingresada = str.upper(input("¿Ingresa tu palabra?\n"))
             palabra_ingresada = palabra_ingresada.strip()
