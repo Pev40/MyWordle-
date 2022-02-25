@@ -37,7 +37,6 @@ class Diccionario():
         palabras = open("listado.txt").read().splitlines()
         self._diccionario_de_consulta = [
             p for p in palabras if len(p) == maximo_caracteres]
-
         self._guardar_diccionario(maximo_caracteres)
 
     def _guardar_diccionario(self, maximocaracteres):
@@ -361,29 +360,7 @@ class JuegoMain():
         self.__verificar_pantalla()
         self.__repetir_intento()
 
-    # Press the green button in the gutter to run the script.
+        
 if __name__ == '__main__':
     app = JuegoMain()
-    #print(ColoresTerminal.UNICODEBLANCO + ColoresTerminal.UNICODEAMARILLO + ColoresTerminal.UNICODEVERDE)
 
-# palabras = open("listado-general.txt", encoding="utf-8").read().splitlines()
-# len(palabras)
-# 80383
-# [p for p in palabras if len(p) == 5]
-# pip install autopep8
-
-
-#   resp = requests.get(
-#       'https://raw.githubusercontent.com/javierarce/palabras/master/listado-general.txt')
-#   fp = open('listado.txt', 'w+')
-#   fp.write(resp.content)
-#   fp.close()
-
-#   jugadas = []
-#   jugadas.append({'fecha': '2022-02-23',
-#                  'intentos': ["amiga", "ameba", "amago", "amigo", "susto"]})
-#   fp = open('jugadas.json', 'w+')
-#   fp.write(json.dumps(jugadas, indent=4))
-#   fp.close()
-
-#  data = json.loads(open('nombre.json').read())
