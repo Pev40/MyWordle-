@@ -1,4 +1,4 @@
-# MyWordle-
+# MyWordle
 Este juego esta inspirado en Wordle que es un juego de palabras de navegador desarrollado por Josh Wardle, un programador que previamente había creado los experimentos sociales Place y The Button para Reddit.
 
 ## Requisitos
@@ -27,3 +27,8 @@ Windows (DOS / Powershell / WindowsConsole)
 Unix (Mac OS X, Linux)
 ```
 ## Vista Previa
+![Image text](https://github.com/Pev40/MyWordle-/blob/main/readme/pantalla1.png)
+![Image text](https://github.com/Pev40/MyWordle-/blob/main/readme/pantalla2.png)
+![Image text](https://github.com/Pev40/MyWordle-/blob/main/readme/pantalla3.png)
+![Image text](https://github.com/Pev40/MyWordle-/blob/main/readme/pantalla4.png)
+
