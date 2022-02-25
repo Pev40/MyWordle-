@@ -27,8 +27,19 @@ Windows (DOS / Powershell / WindowsConsole)
 Unix (Mac OS X, Linux)
 ```
 ## Vista Previa
+### Inicio del Juego
+
 ![Image text](https://github.com/Pev40/MyWordle-/blob/main/readme/pantalla1.png)
+
+### Progreso de Juego
+
 ![Image text](https://github.com/Pev40/MyWordle-/blob/main/readme/pantalla2.png)
+
+### Ganar la partida
+
 ![Image text](https://github.com/Pev40/MyWordle-/blob/main/readme/pantalla3.png)
+
+### Resumen de la partida
+
 ![Image text](https://github.com/Pev40/MyWordle-/blob/main/readme/pantalla4.png)
 
